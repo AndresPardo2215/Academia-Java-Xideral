@@ -1,3 +1,4 @@
+package com.pokemon;
 
 public abstract class Pokemon {
 	

@@ -1,4 +1,4 @@
-
+package com.pokemon;
 public class Pikachu extends Pokemon implements Capturable{
 
 	

@@ -1,4 +1,4 @@
-
+package com.pokemon;
 public class Charmander extends Pokemon implements Capturable {
 
     public Charmander(String nombre, int nivel) {
